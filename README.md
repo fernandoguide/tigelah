@@ -8,4 +8,4 @@ when I'm not developing and building, I'm learning on Youtube, reading an articl
 
 ![Rodrigo Oliveira's Github Stats](https://github-readme-stats.vercel.app/api?username=tigelah&show_icons=true&theme=radical)
 
-[![Rodrigo Oliveira's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tigelah)
+![Rodrigo Oliveira's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tigelah)
